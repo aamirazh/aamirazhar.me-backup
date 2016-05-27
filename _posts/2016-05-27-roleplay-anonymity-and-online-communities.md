@@ -34,7 +34,7 @@ I remember playing on an old MapleStory server two summers ago, to relive that k
 
 I got pretty close to this Canadian girl (again, who knows if she was really a Canadian girl), and I wanted to keep in touch after quitting. But, she didn't come online when I was quitting. In retrospect, it was clear she was either not who she said she was or she wasn't comfortable keeping in touch outside of this online medium, but I trusted her when she said she was just busy. So, I stayed online every day, waiting for her to come back online so I could talk to her and find out how we were going to keep in touch. A typical guy, I didn't get the (fairly subtle) message, and started feeling anxious about losing touch with the people I had formed relationships with over the summer.
 
-![My Old MapleStory Characters](/resources/images/05-27-2016/maple_characters.jpg){:class="img-responsive"}
+![My Old MapleStory Characters](/resources/images/05-27-2016/maple_characters.JPG){:class="img-responsive"}
 
 This is more of a personal struggle than an online one, in which I hate losing touch with people. But the point is, I cared more about these relationships I formed online than many of my real life relationships. And that's because I felt more comfortable with them, more honest, and more *real*.
 
