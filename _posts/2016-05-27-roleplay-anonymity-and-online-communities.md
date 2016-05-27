@@ -6,7 +6,7 @@ description: "A look into the online world of role play, and the surprising cama
 ---
 ![Neverwinter-Nights-Roleplay-Screenshot](/resources/images/05-27-2016/nwneroticheader.jpg){:class="img-responsive"}
 
-This post is about this article by Steven Messner: https://www.rockpapershotgun.com/2016/05/26/neverwinter-nights-erotic-server/
+This post is about <a href="https://www.rockpapershotgun.com/2016/05/26/neverwinter-nights-erotic-server/">this article by Steven Messner:</a>
 
 I just finished reading this piece, and I enjoyed it much more than I thought I would. It was insightful, honest, and human. If you don't want to read it, it's about erotic roleplay in a Neverwinter Nights server, which is a (mostly dead) game all the way from 2002.
 
