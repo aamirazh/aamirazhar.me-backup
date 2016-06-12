@@ -23,7 +23,7 @@ google_plus_userame: AamirAzhar11
 
 # Footer
 footer_left: "Carte Noire theme by <a href=\"https://twitter.com/_JacobTomlinson\">Jacob Tomlinson</a>"
-footer_right: "&lt;/&gt; on <a href=\"https://github.com/kupoko/aamirazhar.me">Github</a> &nbsp;<i class=\"fa fa-github-alt\"></i>"
+footer_right: "&lt;/&gt; on <a href=\"https://github.com/kupoko/aamirazhar.me\">Github</a> &nbsp;<i class=\"fa fa-github-alt\"></i>"
 
 # Build settings
 markdown: kramdown
