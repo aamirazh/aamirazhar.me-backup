@@ -1,5 +1,36 @@
-name: Aamir Azhar
+# Site settings
+title: "Aamir Azhar"
+email: aamirazhar@gmail.com
+description: "Aamir's blog."
+baseurl: ""
+url: "http://www.aamirazhar.me/"
+title_description: "My name is Aamir Azhar. I'm a 19 year old kid who studies Computer Science,
+Arabic, and Documentary Studies at Duke University. Hope you enjoy :)"
+title_image: "http://www.gravatar.com/avatar/00000000000000000000000000000000?s=500&d=mm"
+google_analytics: "UA-79202944-1"
+disqus_account: aamirazhar
+github_repository: https://github.com/kupoko/aamirazhar.me
+addthis_id: ra-575cb03f29af3a6d
+post_limit: 5
+
+# Social usernames/URLs
+facebook_username: aamirazhar
+tumblr_username: kupoko
+github_username:  kupoko
+twitter_username: aamir_azhar
+linkedin_username: aamir-azhar-a5060a3
+google_plus_userame: AamirAzhar11
+
+# Footer
+footer_left: "Carte Noire theme by <a href=\"https://twitter.com/_JacobTomlinson\">Jacob Tomlinson</a>"
+footer_right: "&lt;/&gt; on <a href=\"https://github.com/kupoko/aamirazhar.me">Github</a> &nbsp;<i class=\"fa fa-github-alt\"></i>"
+
+# Build settings
 markdown: kramdown
-permalink: /blog/:year/:month/:day/:title
-paginate: 5
-gems: [jekyll-paginate]
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+permalink: pretty
+exclude: [vendor]

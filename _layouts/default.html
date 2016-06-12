@@ -1,14 +1,19 @@
 <!DOCTYPE html>
-<link rel="stylesheet" href="/css/default.css">
 <html>
-  <head>
-    <title>{{ page.title }}</title>
-  </head>
-  <body>
-    {% include nav.html %}
 
-    {{ content }}
+    {% include head.html %}
 
-    {% include foot.html %}
-  </body>
+    <body>
+
+    {% include header.html %}
+
+    <div class="page-content">
+      <div class="wrap">
+      {{ content }}
+      </div>
+    </div>
+
+    {% include footer.html %}
+
+    </body>
 </html>
