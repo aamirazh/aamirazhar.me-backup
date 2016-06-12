@@ -7,10 +7,10 @@ summary:    There is a special camaraderie that forms within online, anonymous c
 categories: thoughts
 thumbnail:  heart-o
 tags:
+  - anonymity
+  - community
   - internet
   - roleplay
-  - community
-  - anonymity
 ---
 
 ![Neverwinter-Nights-Roleplay-Screenshot](/resources/images/05-27-2016/nwneroticheader.jpg)
