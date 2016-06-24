@@ -15,7 +15,9 @@ tags:
 ![Brexit-Supporters](/resources/images/06-24-2016/brexit1.jpg)
 
 ##### <sup>*NIKLAS HALLE'N / AGENCE FRANCE-PRESSE — GETTY IMAGES*</sup>
+
 &nbsp;
+
 So, the UK just decided to leave the EU. I know it's been a major discussion point for the UK for a while, but as an American, it just seemed to happen so fast. And worse yet, the debate escalated further through this neoliberal, nationalist, and populist rhetoric and the whole thing just feels very uncomfortable to me.
 
 It wasn't even just "Leave" that was the problem (though fuck Nigel Farage). Even Stay's main argument point was an economic one, and counter-arguments for Leave's xenophobic arguments simply did not exist. Everyone seemed to hate the EU so much that the question was, "What's best for Britain?" The question was, "Does accepting refugees actually help **us**?" The question was, "At this given point in time, is the EU actually beneficial to **us**?"
@@ -37,8 +39,10 @@ I don't know. I really don't. But I'm just scared. Things are getting increasing
 #### <sup>Trump will be visiting Scotland on Friday and Saturday.</sup>
 
 ##### <sup>*Damon Winter/<a href="http://www.nytimes.com/2016/06/24/us/politics/donald-trump-follows-a-good-day-with-a-trip-to-scotland.html">The New York Times</a>*</sup>
+
 &nbsp;
-You know.. it's just such a hard time to grow up in. It's a hard time to swallow reality. In just this past year I've learnt so much about politics, society, and ideology, and I know I'm not done learning. But instability looms, and hate is growing like a deathly fire, and I just don't know what to do about it. How can I, a 19 year old, do anything to stop this? How can I, a dreamer, deal with all this shit? The worst seems inevitable, and I just feel so helpless. I feel like a.. pessimist. And I hate this feeling.
+
+You know.. it's just such a hard time to grow up. It's a hard time to swallow reality. In just this past year I've learnt so much about politics, society, and ideology, and I know I'm not done learning. But instability looms, and hate is growing like a deathly fire, and I just don't know what to do about it. How can I, a 19 year old, do anything to stop this? How can I, a dreamer, deal with all this shit? The worst seems inevitable, and I just feel so helpless. I feel like a.. pessimist. And I hate this feeling.
 
 Now I'm privileged, and I've always felt far enough from these political shake-ups to not be struck emotionally. But, I'm feeling closer and closer to it. It feels like less of an idea and more of a reality the more I experience this, and the more I grow up. So, will they start coming for me? I mean, they already are, right? I'm a person of color, I'm Muslim, but I've been privileged enough to ignore the baggage with that until recently. But, now, I've been feeling so unsafe.. so uncertain. What is life going to be like for me in 10 years? What will it be like for my close and extended friends and family? And we don't even have it bad! What about those who are even more marginalized, even more exploited and attacked?
 
