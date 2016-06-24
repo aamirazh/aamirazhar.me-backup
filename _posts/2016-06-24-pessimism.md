@@ -5,7 +5,7 @@ date:       2016-06-24 01:30:00
 author:     Aamir Azhar
 summary:    It's a hard time to grow up.
 categories: society thoughts
-thumbnail:  gpb
+thumbnail:  fa-gpb
 tags:
   - europe
   - growing up
@@ -21,7 +21,7 @@ And it's understandable, I guess. Britain's history with the EU has been largely
 
 But the whole thing is just messed up. Does no one realize the immense ramifications of something like this? Does no one realize the cover this has given to far-right nationalism, and the inspiration this will give to other nationalists in Europe? Is anyone even thinking about the refugees? Does no one realize just the level of neoliberalism, of individualism, of straight up fear-mongering that is going on?
 
-I honestly just don't know what to think. Lots of the rhetoric that has been behind this has just been scary, and it's proven that this rising right-wing xenophobia is not just Republican, it's not just American, and it's possibly not even Western (though its origins may be). What does this mean for the rest of the world?
+I honestly just don't know what to think. Lots of the rhetoric that has been behind this has just been scary, and it's proven that this rising right-wing xenophobia is not just Republican, it's not just American, and it's possibly not even just Western (though its origins may be). What does this mean for the rest of the world?
 
 And now Nigel Farage, leader of the right-wing populist UK Independence Party has gotten so much power and traction. I don't know enough about British politics to compare, but he reminds me of the conservativism of Ted Cruz, with the populism of Trump.
 
