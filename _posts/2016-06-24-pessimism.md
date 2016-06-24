@@ -20,7 +20,7 @@ tags:
 
 So, the UK just decided to leave the EU. I know it's been a major discussion point for the UK for a while, but as an American, it just seemed to happen so fast. And worse yet, the debate escalated further through this neoliberal, nationalist, and populist rhetoric and the whole thing just feels very uncomfortable to me.
 
-It wasn't even just "Leave" that was the problem (though fuck Nigel Farage). Even Stay's main argument point was an economic one, and counter-arguments for Leave's xenophobic arguments simply did not exist. Everyone seemed to hate the EU so much that the question was, "What's best for Britain?" The question was, "Does accepting refugees actually help **us**?" The question was, "At this given point in time, is the EU actually beneficial to **us**?"
+It wasn't even just Leave that was the problem (though fuck Nigel Farage). Even Remain's main argument point was an economic one, and counter-arguments for Leave's xenophobic arguments simply did not exist. Everyone seemed to hate the EU so much that the question was, "What's best for Britain?" The question was, "Does accepting refugees actually help **us**?" The question was, "At this given point in time, is the EU actually beneficial to **us**?"
 
 And it's understandable, I guess. Britain's history with the EU has been largely one of self-interest - When it seemed against its own self-interest, it refused to join. Only when it seemed to be beneficial for the UK did they join.
 
