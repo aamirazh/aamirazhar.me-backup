@@ -47,7 +47,6 @@ I got pretty close to this Canadian girl (again, who knows if she was really a C
 ![My Old MapleStory Characters](/resources/images/05-27-2016/maple_characters.JPG)
 
 #### <sup>These are my old Maple characters from back in the day.</sup>
-
 &nbsp;
 This is more of a personal struggle than an online one, in which I hate losing touch with people. But the point is, I cared more about these relationships I formed online than many of my real life relationships. And that's because I felt more comfortable with them, more honest, and more *real*.
 
