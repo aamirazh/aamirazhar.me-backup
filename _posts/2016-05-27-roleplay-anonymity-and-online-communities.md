@@ -8,6 +8,7 @@ categories: thoughts
 thumbnail:  heart-o
 tags:
   - anonymity
+  - article review
   - community
   - internet
   - roleplay
