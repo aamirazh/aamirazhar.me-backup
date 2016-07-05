@@ -1,11 +1,11 @@
 ---
 layout:     post
 title:      Proud to be an American
-date:       2016-07-05
+date:       2016-07-05 5:55:46
 author:     Aamir Azhar
 summary:    America isn't perfect, but I am still grateful for it.
 categories: society personal
-thumbnail:  america
+thumbnail:  flag-o
 tags:
   - america
   - 4th of july
