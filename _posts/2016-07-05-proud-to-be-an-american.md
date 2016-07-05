@@ -12,11 +12,11 @@ tags:
   - gratitude
   - privilege
 ---
-You know, despite being part of an immigrant family, I grew up celebrating the 4th of July fairly often. I know many people would just use the holiday as an excuse to stay home, but my family would often drive out to the city and spend the night looking at the fireworks and feeling proud to be American. I know one night, my cousins, brothers, and I drove to San Francisco to see them, but it was so crowded that after an hour or two of 1 cm/hr traffic we decided to set up behind some buildings and see the fireworks from our car. It was a great time, and one of the most fond memories I have spending time with my cousins.
+You know, despite being part of an immigrant family, I grew up celebrating the 4th of July fairly often. Most times, we'd drive out to the city and spend the night looking at the fireworks and feeling proud to be American. I know one night, my cousins, brothers, and I drove 2 hours to San Francisco to see the fireworks, but it was so crowded that we decided to set up behind some buildings and see them from our car. It was a great time, and one of the most fond memories I have spending time with my cousins.
 
-This year, I'm not really celebrating 4th of July, because it's Ramadan. Despite hearing fireworks galore in my neighborhood, I left that to spend an hour or two at the Mosque worshipping. But, I am still American, and to prove it, I'm writing this post.
+This year, I didn't see the fireworks because it’s Ramadan and I decided to worship instead. But, I am still American, and to prove it, I’m writing this post.
 
-Both my parents immigrated to America for their undergraduate education. My father came from Pakistan, along with the rest of his family, and my mother came from Malaysia, alone.
+Now, both my parents immigrated to America for their undergraduate education. My father came from Pakistan, along with the rest of his family, and my mother came from Malaysia, alone.
 
 ![Family-South-Carolina](/resources/images/07-05-2016/fam-sc.jpg)
 
