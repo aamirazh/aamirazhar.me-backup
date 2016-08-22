@@ -22,7 +22,7 @@ Vague words aside, all this book really is is a conversation, or rather a lesson
 
 ![Ishmael-Book-Cover](/resources/images/08-22-2016/ishmael.jpg)
 
-Though I don't completely agree with all the messages and implications of the book, it helped me contextualize a lot of my observations about the deteriorating world around us (and how exactly humans are to blame for it). Some may say it is a critique of capitalism, but it goes deeper than that - for me, it is a critique of the very assumptions and mindsets that created our capitalism, along with the contradictory modern systems we have/had, that they are as innovative and groundbreaking as they are destructive and doomed.
+Though I don't completely agree with all the messages and implications of the book, it helped me contextualize a lot of my observations about the deteriorating world around us (and how exactly humans are to blame for it). Some may say it is a critique of capitalism, but it goes deeper than that; for me, it is a critique of the very assumptions and mindsets that created our capitalism, along with the contradictory modern systems we have/had, that they are as innovative and groundbreaking as they are destructive and doomed.
 
 It's hard to describe this book in a few paragraphs because this book describes a mindset, and the best way to understand it (and its relation to you/the world around you) is simply to read it. I would highly recommend you do so.
 
