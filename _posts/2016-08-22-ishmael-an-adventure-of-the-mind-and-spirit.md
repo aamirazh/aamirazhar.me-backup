@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Ishmael: An Adventure of the Mind and Spirit (REVIEW)
+title:      Ishmael - An Adventure of the Mind and Spirit (REVIEW)
 date:       2016-08-22 15:26:20
 author:     Aamir Azhar
 summary:    Enlightening book and genius critique of our civilization.
