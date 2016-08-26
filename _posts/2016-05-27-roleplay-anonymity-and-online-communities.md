@@ -46,7 +46,7 @@ I remember playing on an old MapleStory server two summers ago, to relive that k
 
 #### <sup>These are my old Maple characters from back in the day.</sup>
 
-&nbsp;
+<br>
 
 This is more of a personal struggle than an online one, in which I hate losing touch with people. But the point is, I cared more about these relationships I formed online than many of my real life relationships. And that's because I felt more comfortable with them, more honest, and more *real*.
 
