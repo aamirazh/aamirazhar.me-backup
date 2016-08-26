@@ -47,7 +47,6 @@ I remember playing on an old MapleStory server two summers ago, to relive that k
 #### <sup>These are my old Maple characters from back in the day.</sup>
 
 <br>
-
 This is more of a personal struggle than an online one, in which I hate losing touch with people. But the point is, I cared more about these relationships I formed online than many of my real life relationships. And that's because I felt more comfortable with them, more honest, and more *real*.
 
 I know it was an online community, and I know probably half the people there weren't who they said they were. But, it was so **honest**, and people were so genuine. All the bullshit of real life socializing was gone. If someone wanted to talk to you, they would really talk to you, and if they didn't, they would walk away and you would never know who they were. It's weird, online was kind of a filter for people to actually feel comfortable being real with others without real life repercussions. Without worrying if your online friends would tell other people, or if they would judge you, or if romantic complications would surface.
