@@ -7,10 +7,10 @@ summary:    Enlightening book and genius critique of our civilization.
 categories: reviews
 thumbnail:  book
 tags:
-  - ishmael
   - book
   - civilization
   - ethics
+  - ishmael
 ---
 > You're captives of a civilizational system that more or less compels you to go on destroying the world in order to live.
 
