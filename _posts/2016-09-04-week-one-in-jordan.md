@@ -24,6 +24,7 @@ So, I arrived in Jordan feeling pretty anxious, which I was surprised about. I n
 
 #### <sup>I love taking pictures in planes, never gets old. This is right before arriving in Frankfurt.</sup>
 
+<br>
 There was my mindset going in (and somewhat my mindset now). I was feeling anxious, thinking maybe this was a mistake, but my logical side was telling me that objectively this was a good decision, and so I still believed that. As much as it was tough leaving, I don't think I'd have a better time to study abroad, forget about everything else, and be able to just focus on my Arabic and maybe a personal project or two. A battle of the heart and mind, if you will.
 
 Orientation week strengthened these feelings, just because it was a lot of meeting new people and a lot of unknowns, meaning that I didn't know how this semester would be, I didn't know who to spend it with, and I didn't know if I'd approach it right -- I'm really dependent on my environment and on my peers and this was both a big deal but also something I didn't want to force or put too much energy into. I dislike large group settings so I found myself just walking or sitting alone a lot during orientation, which --side note-- I was proud of. I used to feel guilty for that because I'd be missing out on getting to know new potentially awesome people, but I was more comfortable in my introversion and was no longer a naive freshman during O-week.
@@ -32,6 +33,7 @@ Orientation week strengthened these feelings, just because it was a lot of meeti
 
 #### <sup>My room in my homestay in Amman. Was really happy to get my own room this time!</sup>
 
+<br>
 Anyway, the downside of that was that I felt lonely during nights, and though I made a few friends, I didn't seem very close to them in terms of what I wanted out of this semester. I wanted more tangible things, like maybe a documentary project, a social project, and almost-fluency in Arabic. Others seemed like they wanted to practice Arabic, but they mostly just wanted to have fun, talk to Jordanians, and ~~understand the culture~~. If it helps, maybe 90% of the program is white, and I felt like I just didn't have the same approach to the program that many of them did. However, this feeling I had, which I still can't grasp very well, led to a really interesting conversation I had with a fellow POC I met later in orientation, which I wrote an incomplete blog post on. It was specifically about why white people/Americans abroad love spending time with children from other countries (e.g. refugee kids) but less more "hardened" or "jaded" adults. Anyway, I won't go on that tangent, but keep an eye out if you're intrigued about it, or ask me about it.
 
 ## Midweek/Developed Thoughts
@@ -42,8 +44,9 @@ Me and Hans ended up building our friendship off of this, and we both shared wit
 
 ![Amman-Friends](/resources/images/09-04-2016/friends.jpg)
 
-#### <sup>Left is Hans, the Korean girl I met and want to do stuff with. Right is Kevin, her mutual friend and also really cool/genuine.</sup>
+#### <sup>Left is Hans, the Korean girl I met and want to pursue goals/projects with. Right is Kevin, her mutual friend and also a really cool/genuine guy.</sup>
 
+<br>
 It was also during this time that I decided to uninstall social media from my phone and try to be more independent. It just seemed like a good time - It would make sure I stick to an Arabic mindset, it'd make me less dependent on spending my free time chatting to keep me satisfied/comfortable, and most of all it'd help remove some of my anxiety about messaging and social media (and how unorganic the whole thing is). Taking this step felt a bit dramatic, but good.
 
 With all that, I started to become more optimistic towards the end of orientation week, because I felt like I found the people I want to hang out with this semester, and I was starting to form concrete goals/projects to work on with Hans, and though it'd be exhausting, I felt more directed and ambitious. I also started walking around more with them, and it was really nice just going through downtown and seeing things with people, instead of being in my room alone.
@@ -58,6 +61,7 @@ After the language pledge, it wasn't too bad, in that I didn't mind conversing w
 
 #### <sup>Group lunch with our Jordanian mentors (the Hijabis in this picture) after we signed the pledge to try to only speak Arabic here.</sup>
 
+<br>
 Then, classes started (just today, on a Sunday), and I quickly got even more overwhelmed. My classes are harder than I thought they'd be, and the homework is more challenging than I expected. I mean, I expected rigor because it's Middlebury (that's why I did this program specifically), but it kind of hit me that I wouldn't be able to dictate how I wanted to spend my time during all my afternoons/evenings and that I'd actually have to worry about homework and all. It just sucked because I started getting excited about doing all these projects, and about exploring Jordan, and though I'm still trying to make time for it, I didn't expect to feel that classroom/student lifestyle today, and it made everything more grey and busy work oriented.
 
 It's worth saying that I'm in no way against classes, I just learn best outside of structured contexts like classrooms and homework, and I was disappointed because I was figuring out how I'd learn that way, only to realize I had to give half my energy to learning the other way. That said, classes are only 4 days a week, so if I spend my time wisely and do all my homework those 4 days, I can hopefully at least spend 43% of my week doing other stuff.
@@ -66,6 +70,7 @@ It's worth saying that I'm in no way against classes, I just learn best outside 
 
 #### <sup>The Friday market in downtown Amman. Super cheap, really cool, but obviously only there on Fridays.</sup>
 
+<br>
 Anyway, I felt a bit overwhelmed today because there's so much I want to do, and so much I have to do, and I don't have an established routine or schedule to know what to expect from either. I'm hoping to create that over time here in Jordan, and maybe get more comfortable, less lonely, and start meaningful projects/goals to get me motivated. Until then, it may be a bit tough for me :(
 
 ## Conclusions/Summary
@@ -82,6 +87,7 @@ Then, classes started and exhaustion kicked in. Exhaustion has been here the who
 
 #### <sup>Saw some Malaysia flags with the Jordanian flag in downtown Amman. Made me think of my mom and I felt a bit homesick :p</sup>
 
+<br>
 So, yeah, closing thoughts:
 
 * This whole semester is going to be exhausting, I know it. This can be good or bad, depending on if I can get meaningful/tangible stuff from it. But even just only talking in Arabic is draining enough so far, notwithstanding my classwork, figuring out my goals/projects, and my anxiety.
