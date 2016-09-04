@@ -14,7 +14,7 @@ tags:
 ---
 As some of you know, I started my study abroad semester in Amman, Jordan, last week. I wanted to write down updates every week (ideally) just to get my thoughts down/feelings out as well as to keep people in the loop while I'm gone.
 
-*NOTE:* These diary-esque entries are really all over the place and not structured -- If you want a concise tl;dr, skip to the end (Conclusions/Summary), unless you really want to read a jumbled stream of consciousness. Anyway, here goes:
+***NOTE:*** These diary-esque entries are really all over the place and not structured -- If you want a concise tl;dr, skip to the end (Conclusions/Summary), unless you really want to read a jumbled stream of consciousness. Anyway, here goes:
 
 ## Original Thoughts
 
