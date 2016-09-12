@@ -3,7 +3,7 @@ layout:     post
 title:      Why do Westerners love foreign children?
 date:       2016-09-12 12:18:07
 author:     Aamir Azhar
-summary:    White people love watered down, friendly cultural experiences.
+summary:    We're unaware of how we subconsciously limit, filter, and fun-size the experiences and perspectives we develop abroad.
 categories: society thoughts
 thumbnail:  child
 tags:
